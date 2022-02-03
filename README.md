@@ -1,6 +1,8 @@
 <p>
+    <img src="https://img.shields.io/badge/AUTHOR=sougatoroy3-ff69b4.svg" />
     <img src="https://img.shields.io/badge/Swift-5.5-ff69b4.svg" />
 </p>
+
 # DBZ-Legends
 Just a simple UI based app for all the DBZ fans. You can tap on the different characters and they'll tell you bout themselves in their own sick style.
 
