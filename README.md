@@ -5,6 +5,7 @@ Initially made in swift playgrounds.
 The resource file was cloned from Paul Hudson's Subsonic package. Will add the link below.
 github.com/twostraws/Subsonic
 
+<<<<<<< HEAD
 ## Preview
 
 
@@ -12,6 +13,11 @@ github.com/twostraws/Subsonic
 Clone the folder and run it from the swift playgrounds app.
 You may even use XCode or VSCode to run it.
 
+=======
+# Steps to Run
+Clone the folder and run it from the swift playgrounds app.
+You may even use XCode or VSCode to run it.
+>>>>>>> 8f632989a3f60103a705a028c274a8c5e70955aa
 *Note you'll need the swift toolchain and compiler to run it on a windows machine*
 
 # Disclaimer
