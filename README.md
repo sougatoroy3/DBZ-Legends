@@ -7,7 +7,7 @@ The resource file was cloned from Paul Hudson's Subsonic package. Will add the l
 github.com/twostraws/Subsonic
 
 # Preview
-![alt text]"C:\Users\souga\Desktop\MySubject\Git Projects\DBZ Legends .swiftpm\IMG_0408.PNG"
+![alt text](C:\Users\souga\Desktop\MySubject\Git Projects\DBZ Legends .swiftpm\IMG_0408.PNG)
 
 # Steps to Run
 Clone the folder and run it from the swift playgrounds app.
