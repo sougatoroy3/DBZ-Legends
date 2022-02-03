@@ -3,10 +3,11 @@ Just a simple UI based app for all the DBZ fans. You can tap on the different ch
 
 Initially made in swift playgrounds. 
 The resource file was cloned from Paul Hudson's Subsonic package. Will add the link below.
+
 github.com/twostraws/Subsonic
 
 # Preview
-
+![alt text]"C:\Users\souga\Desktop\MySubject\Git Projects\DBZ Legends .swiftpm\IMG_0408.PNG"
 
 # Steps to Run
 Clone the folder and run it from the swift playgrounds app.
@@ -16,6 +17,7 @@ You may even use XCode or VSCode to run it.
 # Steps to Run
 Clone the folder and run it from the swift playgrounds app.
 You may even use XCode or VSCode to run it.
+
 *Note you'll need the swift toolchain and compiler to run it on a windows machine*
 
 # Disclaimer
