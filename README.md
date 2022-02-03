@@ -4,7 +4,7 @@ Just a simple UI based app for all the DBZ fans. You can tap on the different ch
 Initially made in swift playgrounds. 
 The resource file was cloned from Paul Hudson's Subsonic package. Will add the link below.
 
-github.com/twostraws/Subsonic
+https://github.com/twostraws/Subsonic
 
 # Preview
 ![IMG_0408](https://user-images.githubusercontent.com/70825861/152324810-162bf174-c666-457e-86ce-8ad1a93d5e1f.PNG)
