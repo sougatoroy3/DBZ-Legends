@@ -1,5 +1,5 @@
 <p>
-    <img src="https://img.shields.io/badge/AUTHOR=sougatoroy3-ff69b4.svg" />
+    <img src="https://img.shields.io/badge/Author-sougatoroy3-ff69b4.svg" />
     <img src="https://img.shields.io/badge/Swift-5.5-ff69b4.svg" />
 </p>
 
